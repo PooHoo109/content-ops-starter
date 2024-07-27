@@ -37,10 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: >-
-        High-Speed Connectivity                   
-        Energy-Efficient                                      Affordable
-        Price                                       Easy Setup
+      label: This is a badgf
       color: text-primary
       type: Badge
     elementId: ''
