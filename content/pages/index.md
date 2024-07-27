@@ -39,8 +39,8 @@ sections:
     badge:
       label: >-
         This is a badgfHigh-Speed Connectivity                   
-        Energy-Efficient                                      Affordable
-        Price                                       Easy Setup
+        Energy-Efficient                                      Affordable Price
+        Easy Setup
       color: text-primary
       type: Badge
     elementId: ''
