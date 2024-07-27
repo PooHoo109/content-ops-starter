@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: >-
-        This is a badgfHigh-Speed Connectivity                   
+        High-Speed Connectivity                   
         Energy-Efficient                                      Affordable Price
         Easy Setup
       color: text-primary
